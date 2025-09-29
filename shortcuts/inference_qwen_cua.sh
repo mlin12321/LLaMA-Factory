@@ -1,0 +1,1 @@
+llamafactory-cli chat cua_experimental/qwen2_5vl_lora_sft_inference.yaml
